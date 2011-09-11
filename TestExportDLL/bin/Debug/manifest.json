@@ -1,0 +1,6 @@
+{
+	"name" : "Librarinth Chrome"
+	,"version" : "0.1"
+	,"description" : "NPAPI Librarinth Engine Canvas"
+	,"plugins" : [{ "path":"npTest.dll" }]
+}
